@@ -60,7 +60,7 @@
     <h2>Curriculum Vitae</h2>
     <p>
       Download my full CV here:
-      <a href="link-to-your-cv.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+      <a href="LLY_RESUME.pdf" target="_blank">Curriculum Vitae (PDF)</a>
     </p>
   </section>
 
